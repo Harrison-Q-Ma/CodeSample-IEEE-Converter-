@@ -1,9 +1,7 @@
 /*
  * Filename: extractParts.s
  * Author: Qixuan "Harrison" Ma
- * UserID: cs30s220bn
  * Date: 4 September 2020
- * Sources of help: Piazza posts and PA3 writeup
  */
 
 	.arch 	armv6			@ Specify hardware to assembler
