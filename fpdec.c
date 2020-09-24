@@ -1,9 +1,7 @@
 /*
  * Filename: fpdec.c
  * Author: Qixuan "Harrison" Ma
- * UserID: cs30s220bn
  * Date: September 3 2020
- * Sources of Help: Piazza posts and the PA3 writeup
  */ 
 
 #include "pa3.h"
