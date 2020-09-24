@@ -1,9 +1,7 @@
 /*
  * File Name: parseNum.s
  * Author: Qixuan "Harrison" Ma
- * UserID: cs30s220bn
  * Date: 4 September 2020
- * Sources of help: Piazza posts, PA3 writeup
  */ 
 	.arch 	armv6 			@ Specify hardware to assembler
 	.cpu 	cortex-a53 
